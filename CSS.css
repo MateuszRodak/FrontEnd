@@ -3,17 +3,37 @@ body {
   font-size: 50px;
 }
 
-#container{
+#panel{
+	background-color: black;
+	height: 15%;
+	width: 80%;
+	color: white;
+	text-align: justify;
+	border: 20px;
+	}
+h1{
+
+	margin-left:15%;
+}
+	
+	h2{
+		color: gray;
+		margin-left:10%;
+	}
+	
+#container:after{
 	background-color:#FF1123;
 	width: 400px;
 	margin-left: 150px;
+	display:block;
+        clear:both;
 }
 
 #GIT{
 		float:left;
 	width: 400px;
 	background-color: F12345;
-	margin-left: 2;
+	margin-left: 10%;
 
 }
 
@@ -21,6 +41,5 @@ body {
 float:left;
 width: 400px;
 	background-color: blue;
-margin-left: 50px;
 
 }
