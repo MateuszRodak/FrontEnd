@@ -13,8 +13,16 @@ body {
 	}
 h1{
 
-	margin-left:15%;
+	margin-left:25%;
 }
+	a:link{
+	color: none;
+	background-color: none;
+	  text-decoration: none;
+	}
+	a:hover{
+		color:orange;
+	}
 	
 	h2{
 		color: gray;
@@ -31,15 +39,22 @@ h1{
 
 #GIT{
 		float:left;
-	width: 400px;
+	width: 25%;
 	background-color: F12345;
-	margin-left: 10%;
-
+	margin-left: 2.5%;
 }
+h2:hover{
 
+color:orange;
+}
 #LinkedIN{
 float:left;
-width: 400px;
+width: 25%;
 	background-color: blue;
 
+}
+#Filmweb{
+	float:left;
+	width: 25%;
+background-color: yellow;
 }
