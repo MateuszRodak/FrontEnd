@@ -1,5 +1,26 @@
-div {
+body {
   background-color:lightblue;
   font-size: 50px;
 }
 
+#container{
+	background-color:#FF1123;
+	width: 400px;
+	margin-left: 150px;
+}
+
+#GIT{
+		float:left;
+	width: 400px;
+	background-color: F12345;
+	margin-left: 2;
+
+}
+
+#LinkedIN{
+float:left;
+width: 400px;
+	background-color: blue;
+margin-left: 50px;
+
+}
