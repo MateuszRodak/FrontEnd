@@ -16,8 +16,8 @@ h1{
 	margin-left:25%;
 }
 	a:link{
-	color: none;
-	background-color: none;
+	color: unset;
+	background-color: unset;
 	  text-decoration: none;
 	}
 	
@@ -45,7 +45,7 @@ h1{
 #GIT{
 		float:left;
 	width: 25%;
-	background-color: F12345;
+	background-color: #F12345;
 	margin-left: 2.5%;
 
 }
